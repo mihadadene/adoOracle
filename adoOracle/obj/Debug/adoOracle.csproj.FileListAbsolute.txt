@@ -1,0 +1,25 @@
+C:\Users\1895700\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.exe.config
+C:\Users\1895700\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.exe
+C:\Users\1895700\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.pdb
+C:\Users\1895700\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csprojAssemblyReference.cache
+C:\Users\1895700\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CoreCompileInputs.cache
+C:\Users\1895700\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.exe
+C:\Users\1895700\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.pdb
+C:\Users\1895700\source\repos\adoOracle\adoOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\1895700\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CopyComplete
+G:\WorkSpace C#\adoOracle\adoOracle\bin\Debug\adoOracle.exe.config
+G:\WorkSpace C#\adoOracle\adoOracle\bin\Debug\adoOracle.exe
+G:\WorkSpace C#\adoOracle\adoOracle\bin\Debug\adoOracle.pdb
+G:\WorkSpace C#\adoOracle\adoOracle\obj\Debug\adoOracle.csprojAssemblyReference.cache
+G:\WorkSpace C#\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CoreCompileInputs.cache
+G:\WorkSpace C#\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CopyComplete
+G:\WorkSpace C#\adoOracle\adoOracle\obj\Debug\adoOracle.exe
+G:\WorkSpace C#\adoOracle\adoOracle\obj\Debug\adoOracle.pdb
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.exe.config
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.exe
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\bin\Debug\adoOracle.pdb
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.csproj.CopyComplete
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.exe
+C:\Users\mihadadene\source\repos\adoOracle\adoOracle\obj\Debug\adoOracle.pdb
